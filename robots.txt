@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /page3405869.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: http://moskhozopt.ru/sitemap.xml
+Host: moskhozopt.ru
